@@ -1,0 +1,23 @@
+{
+  "name": "react_form",
+  "version": "1.0.0",
+  "description": "ReactJs Form Guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CleverOscar/react_form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CleverOscar/react_form/issues"
+  },
+  "homepage": "https://github.com/CleverOscar/react_form#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
