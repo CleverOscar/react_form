@@ -1,6 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
 
+import ContactForm from './ContactForm';
+
+
 function App() {
   return (
     <div className="App">
@@ -8,6 +11,10 @@ function App() {
         <h1>ReactJS Contact Form Guide</h1>
       </header>
 
+
+      <ContactForm>
+        
+      </ContactForm>
 
     </div>
   );
