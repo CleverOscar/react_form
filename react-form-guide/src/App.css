@@ -31,3 +31,25 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/* Contact Form CSS */
+
+#contact-form {
+  border: 2px solid blue;
+  width: 50%;
+  margin: 25px auto 25px;
+}
+
+.inputStyle {
+  border: 1px red solid;
+  width: 75%;
+  height: 5vmin
+}
+
+.textStyle {
+  width: 75%;
+  height: 20vmin;
+  border: 2px solid red;
+}
