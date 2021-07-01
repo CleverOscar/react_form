@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-
 import ContactForm from './ContactForm';
 
 
